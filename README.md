@@ -1,4 +1,4 @@
-# AquaAlert+ - Sistema IoT de Hidratação e Qualidade do Ar
+# AquaAlert - Sistema IoT de Hidratação e Qualidade do Ar
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/83855283-405c-4731-87da-7ba5e7862ab7"
